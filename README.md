@@ -13,20 +13,20 @@ Loging Page
 Signup Page
 ![Screenshot (76)](https://user-images.githubusercontent.com/57299163/117263821-49a43300-ae70-11eb-9b30-d85395a65f77.png)
 
-# Installation
-To get this project up and running you should start by having Python installed on your computer.create a virtual environment to store your projects dependencies separately. You can install virtualenv with
+# Installation Guide
+1) To get this project up and running you should start by having Python installed on your computer.create a virtual environment to store your projects dependencies separately. You can install virtualenv with
 
 pip install virtualenv 
 
-That will create a new folder env in your project directory. Next activate it with this command on Window:
+2) That will create a new folder env in your project directory. Next activate it with this command on Window:
 
 env\scripts\activate
 
-Then install the project dependencies with:-
+3) Install the project dependencies with:-
 
 pip install -r requirements.txt
 
-Now run the project with this command:-
+4) Now run the project with this command:-
 
 python manage.py runserver
 
