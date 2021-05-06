@@ -14,7 +14,7 @@ Signup Page
 ![Screenshot (76)](https://user-images.githubusercontent.com/57299163/117263821-49a43300-ae70-11eb-9b30-d85395a65f77.png)
 
 # Installation Guide
-1) To get this project up and running you should start by having Python installed on your computer.create a virtual environment to store your projects dependencies separately. You can install virtualenv with
+1) To get this project up and running make sure that Python installed on your computer. Now you have to create a VirtualEnvironment by using this command:
 
 pip install virtualenv 
 
